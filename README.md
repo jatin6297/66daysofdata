@@ -1,2 +1,2 @@
-# 66daysofdata
-This repository contains the practical implementation of various machine learning concept. 
+# Regression
+This repository contains the practical implementation of multivariate regression.
